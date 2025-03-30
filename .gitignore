@@ -1,0 +1,16 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Java
+*.class
+*.log
+
+# Build tools
+target/
+*.jar
+
+# Sonstiges
+*.zip
+.DS_Store
